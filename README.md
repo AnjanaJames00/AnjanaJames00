@@ -3,7 +3,6 @@
 👯 Open to collaborating on impactful AI projects, especially in healthcare, analytics, and product-driven solutions.<br><br>
 🤝 Seeking guidance on translating AI concepts into practical product use cases and meaningful solutions.<br><br>
 🌱 Learning Generative AI, ML systems, and bridging technology with product strategy.<br><br>
-💬 Ask me about AI, data science, and ITIL service management.<br><br>
 ⚡ Fun fact: Engineer by profession, corporate by experience, artist at heart 🎨
 
 
