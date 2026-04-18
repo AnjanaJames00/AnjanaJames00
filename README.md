@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & Data Science projects, with a focus on real-world applications and research in Generative AI.<br><br>👯 I’m looking to collaborate on impactful AI projects, especially in healthcare, analytics, and product-driven solutions.<br><br>🤝 I’m looking for help with translating AI concepts into real-world product use cases and impactful solutions.<br><br>🌱 I’m currently learning Generative AI, machine learning systems, and how to bridge tech with product strategy.<br><br>💬 Ask me about AI, data science, ITIL service management.<br><br>⚡ Fun fact: Engineer by profession, corporate by experience, artist at heart 🎨
+🔭 Currently working on AI & Data Science projects, focusing on real-world applications and Generative AI research.<br><br>
+👯 Open to collaborating on impactful AI projects, especially in healthcare, analytics, and product-driven solutions.<br><br>
+🤝 Seeking guidance on translating AI concepts into practical product use cases and meaningful solutions.<br><br>
+🌱 Learning Generative AI, ML systems, and bridging technology with product strategy.<br><br>
+💬 Ask me about AI, data science, and ITIL service management.<br><br>
+⚡ Fun fact: Engineer by profession, corporate by experience, artist at heart 🎨
 
 
 ## 🌐 Socials:
